@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html, body {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  overscroll-behavior: none;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

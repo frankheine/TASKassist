@@ -1,0 +1,6 @@
+{
+  "name": "Life Assist Case Manager",
+  "description": "A project management and legal preparation dashboard designed to assist with executive function, document compilation, and court hearing preparations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
